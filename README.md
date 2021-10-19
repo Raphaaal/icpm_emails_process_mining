@@ -1,6 +1,6 @@
-# ICMP 2021 - Emails Process Mining
+# Emails Process Mining
 
-Open code for ICPM 2021 submission proposing a reproducible approach for mining business activities from emails for process analytics.
+Open code for paper submission proposing a reproducible approach for mining business activities from emails for process analytics.
 
 ## Description
 
