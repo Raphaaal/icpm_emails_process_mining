@@ -1,7 +1,7 @@
 # Emails Process Mining
 
 Open code proposing a reproducible approach for mining business activities from emails for process analytics, accompanying the paper:
-A Reproducible Approach for Mining Business Activities from Emails for Process Analytics, Raphael Azorin, Daniela Grigori, Khalid Belhajjame, AI-PA 2021, The 2nd International Workshop on AI-enabled Process Automation, 22 November 2021, ICSOC Conference, Dubai, UAE.
+[A Reproducible Approach for Mining Business Activities from Emails for Process Analytics](https://link.springer.com/chapter/10.1007/978-3-031-14135-5_6), from Raphael Azorin, Daniela Grigori, and Khalid Belhajjame at ICSOC AI-PA 2021, The 2nd International Workshop on AI-enabled Process Automation.
 
 ## Description
 
